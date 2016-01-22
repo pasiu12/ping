@@ -2,6 +2,8 @@
 just simple ping, compatibile with python 3
 '''
 
+#test :)
+
 import socket
 import struct
 
